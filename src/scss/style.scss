@@ -1,0 +1,10 @@
+$bgColor: #ffffff;
+
+body {
+    background-color: $bgColor;
+}
+
+.block {
+    display: flex;
+    color: $bgColor;
+}
